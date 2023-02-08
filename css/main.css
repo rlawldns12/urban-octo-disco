@@ -1,0 +1,44 @@
+div.head{
+    background-color: black;
+    width: 1700px;
+    height: 100px;
+    margin: 0%;
+    padding: 0%;
+}
+div.img{
+    background-image:url('../img/dask.png');
+    background-size: 300px;
+}
+div.footer{
+    position: absolute;
+    bottom: 100px;
+    width: 800px;
+    height: 100px;
+    left: 420px;
+    background-color: rgba(248, 250, 252, 1);
+    border: rgba(208, 213, 221, 1);
+    margin: auto;
+    text-align: center;
+    box-shadow: 1px 1px 3px 1px #dadce0 inset;
+}
+input.input{
+    width: 640px;
+    height: 80px;
+    background-color: rgba(248, 250, 252, 1);
+    border: rgba(208, 213, 221, 1);
+    outline: none;
+    bottom: 10px;
+    position: absolute;
+    left: 30px;
+    font-size: 25px;
+}
+input.output{
+    position: absolute;
+    width: 71px;
+    height: 45px;
+    background-color: rgba(248, 250, 252, 1);
+    border-color: rgba(234, 236, 240, 1);
+    right: 30px;
+    bottom: 30px;
+    
+}
